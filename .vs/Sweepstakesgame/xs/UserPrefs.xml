@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{37AC4D0F-A4D5-4FDD-9EC9-159A54947804}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sweepstakesgame/Program.cs">
+    <Files>
+      <File FileName="Sweepstakesgame/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sweepstakesgame FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

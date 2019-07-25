@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sweepstakesgame", "Sweepstakesgame\Sweepstakesgame.csproj", "{37AC4D0F-A4D5-4FDD-9EC9-159A54947804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AC4D0F-A4D5-4FDD-9EC9-159A54947804}.Debug|x86.ActiveCfg = Debug|x86
+		{37AC4D0F-A4D5-4FDD-9EC9-159A54947804}.Debug|x86.Build.0 = Debug|x86
+		{37AC4D0F-A4D5-4FDD-9EC9-159A54947804}.Release|x86.ActiveCfg = Release|x86
+		{37AC4D0F-A4D5-4FDD-9EC9-159A54947804}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
