@@ -6,5 +6,9 @@ namespace Sweepstakesgame
         public ISweepstakesManager()
         {
         }
+        //public void InsertSweepstakes
+        
+
+        
     }
 }

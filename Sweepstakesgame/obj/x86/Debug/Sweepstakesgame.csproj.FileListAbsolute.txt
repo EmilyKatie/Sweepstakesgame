@@ -1,0 +1,6 @@
+/Users/pattio/REPOS/Sweepstakesgame/Sweepstakesgame/obj/x86/Debug/Sweepstakesgame.csprojAssemblyReference.cache
+/Users/pattio/REPOS/Sweepstakesgame/Sweepstakesgame/obj/x86/Debug/Sweepstakesgame.csproj.CoreCompileInputs.cache
+/Users/pattio/REPOS/Sweepstakesgame/Sweepstakesgame/bin/Debug/Sweepstakesgame.exe
+/Users/pattio/REPOS/Sweepstakesgame/Sweepstakesgame/bin/Debug/Sweepstakesgame.pdb
+/Users/pattio/REPOS/Sweepstakesgame/Sweepstakesgame/obj/x86/Debug/Sweepstakesgame.exe
+/Users/pattio/REPOS/Sweepstakesgame/Sweepstakesgame/obj/x86/Debug/Sweepstakesgame.pdb
